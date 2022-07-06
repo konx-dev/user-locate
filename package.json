@@ -1,0 +1,25 @@
+{
+  "name": "@konx-dev/user-locate",
+  "version": "1.0.0",
+  "description": "Simple script to determine a users location from their devices timezone without the need for expensive API calls or 3rd party integrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konx-dev/user-locate.git"
+  },
+  "keywords": [
+    "timezone",
+    "check",
+    "user",
+    "locate"
+  ],
+  "author": "konx.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konx-dev/user-locate/issues"
+  },
+  "homepage": "https://github.com/konx-dev/user-locate#readme"
+}
