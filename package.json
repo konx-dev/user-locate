@@ -1,6 +1,6 @@
 {
   "name": "@konx-dev/user-locate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple script to determine a users location from their devices timezone without the need for expensive API calls or 3rd party integrations",
   "main": "index.js",
   "scripts": {
