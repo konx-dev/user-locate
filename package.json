@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/konx-dev/user-locate/issues"
   },
-  "homepage": "https://github.com/konx-dev/user-locate#readme"
+  "homepage": "https://github.com/konx-dev/user-locate#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/node": "^18.0.3",
+    "typescript": "^4.7.4"
+  }
 }
