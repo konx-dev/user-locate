@@ -12,6 +12,6 @@ run function and utilise however required
 
 ## Roadmap
 
-* Passing in arguments to return differing information
-* Convert package to typescript
-* Readme & codesandbox.io examples - VanillaJS, React, Vue
+- [x] Return an object rather than string with timezone, country and code
+- [] Convert package to typescript
+- [] Readme & codesandbox.io examples - VanillaJS, React, Vue

@@ -14,7 +14,11 @@ function userLocate() {
     const _country = timezones[timezone].c[0];
     const country = countries[_country];
 
-    return country;
+    return {
+      'timezone': timezone,
+      'country': country,
+      'code': _country 
+    };
 }
 
 module.exports = userLocate
