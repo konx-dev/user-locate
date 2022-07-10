@@ -1,12 +1,17 @@
 # user-locate
 
-## description
-Simple script to determine a users location from their devices timezone without the need for expensive API calls or 3rd party integrations
+Simple script to determine a users location from their devices timezone without the need for expensive API calls or 3rd party integrations.
 
-## basic usage
+## Basic usage
 
 require the package at a project or component level
 ```const userLocate = require('@konx-dev/user-locate')```
 
 run function and utilise however required
 ```userLocate()```
+
+## Roadmap
+
+* Passing in arguments to return differing information
+* Convert package to typescript
+* Readme & codesandbox.io examples - VanillaJS, React, Vue
