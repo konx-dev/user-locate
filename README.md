@@ -9,9 +9,3 @@ require the package at a project or component level
 
 run function and utilise however required
 ```userLocate()```
-
-## Roadmap
-
-- [x] Return an object rather than string with timezone, country and code
-- [ ] Convert package to typescript
-- [ ] Readme & codesandbox.io examples - VanillaJS, React, Vue
