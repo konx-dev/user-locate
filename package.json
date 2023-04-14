@@ -12,9 +12,9 @@
   },
   "keywords": [
     "timezone",
-    "check",
-    "user",
-    "locate"
+    "locate",
+    "find my location",
+    "geolocation"
   ],
   "author": "konx.dev",
   "license": "ISC",
