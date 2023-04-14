@@ -9,3 +9,11 @@ require the package at a project or component level
 
 run function and utilise however required
 ```userLocate()```
+
+## Demo
+
+[StackBlitz Demo](https://stackblitz.com/edit/user-locate?file=index.js&view=editor)
+
+## Contact
+
+If you have any questions or experience any issues please feel free to open an issue [here](https://github.com/konx-dev/user-locate/issues)
